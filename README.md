@@ -1,2 +1,2 @@
 # Datasets
- Datasets utilziados en LABS en la carrera de DS de Henry
+ Datasets utilizados en LABS en la carrera de DS de Henry
