@@ -1,0 +1,1 @@
+API de yahoo finance, se trabajara con los periodos contemplados entre 01/01/2000 y 31/12/2021. La librería está en https://pypi.org/project/yfinance/ y página oficial https://finance.yahoo.com/

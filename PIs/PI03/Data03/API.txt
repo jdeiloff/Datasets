@@ -1,0 +1,4 @@
+API:
+https://ftx.com/api/markets
+Documentación:
+https://docs.ftx.com/#rest-api

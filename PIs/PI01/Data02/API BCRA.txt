@@ -1,0 +1,3 @@
+API BCRA
+Enlace de la página para extraer los datos: https://estadisticasbcra.com/  
+Documentación: https://estadisticasbcra.com/api/documentacion

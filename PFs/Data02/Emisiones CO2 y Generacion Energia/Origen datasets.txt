@@ -1,0 +1,13 @@
++ Fuente de datos del Banco Mundial:
+
+https://databank.worldbank.org/databases 
+
+(En la sección `World Development Indicators` podrán encontrar el indicador de esperanza de vida al nacer).
+
++ Ejemplo de fuente datos externa, de la OMS, para complementar el análisis:
+
+https://apps.who.int/gho/data/node.resources
+
++ Por último, se disponibiliza una tesis de grado en Economía que relaciona el indicador con diversas variables, ya sea para tener como referencia o aplicar como marco teórico:
+
+ https://ruc.udc.es/dspace/bitstream/handle/2183/16409/RodriguezRodriguez_David_TFG_2015.pdf?sequence=2
